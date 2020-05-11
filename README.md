@@ -1,6 +1,6 @@
 ## About PHP Learning
 
-This PHP Learning is series "The PHP Practioner" in https://laracasts.com/series/php-for-beginners
+This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/series/php-for-beginners
 
 - [Step 1: Get PHP Installed](https://laracasts.com/series/php-for-beginners/episodes/1).
 - [Step 2: Install a Proper Code Editor](https://laracasts.com/series/php-for-beginners/episodes/2).
@@ -15,3 +15,4 @@ This PHP Learning is series "The PHP Practioner" in https://laracasts.com/series
 - [MySQL 101](https://laracasts.com/series/php-for-beginners/episodes/11).
 - [Classes 101](https://laracasts.com/series/php-for-beginners/episodes/12).
 - [Intro to PDO](https://laracasts.com/series/php-for-beginners/episodes/13).
+- [PDO Refactoring and Collaborators](https://laracasts.com/series/php-for-beginners/episodes/14).
