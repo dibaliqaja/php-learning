@@ -17,3 +17,4 @@ This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/seri
 - [Intro to PDO](https://laracasts.com/series/php-for-beginners/episodes/13).
 - [PDO Refactoring and Collaborators](https://laracasts.com/series/php-for-beginners/episodes/14).
 - [Hide Your Secret Passwords](https://laracasts.com/series/php-for-beginners/episodes/15).
+- [Make a Router](https://laracasts.com/series/php-for-beginners/episodes/16).
