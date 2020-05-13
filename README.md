@@ -19,3 +19,4 @@ This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/seri
 - [Hide Your Secret Passwords](https://laracasts.com/series/php-for-beginners/episodes/15).
 - [Make a Router](https://laracasts.com/series/php-for-beginners/episodes/16).
 - [Dry Up Your Views](https://laracasts.com/series/php-for-beginners/episodes/17).
+- [Array Filtering](https://laracasts.com/series/php-for-beginners/episodes/18).
