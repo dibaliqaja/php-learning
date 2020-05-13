@@ -20,3 +20,4 @@ This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/seri
 - [Make a Router](https://laracasts.com/series/php-for-beginners/episodes/16).
 - [Dry Up Your Views](https://laracasts.com/series/php-for-beginners/episodes/17).
 - [Array Filtering](https://laracasts.com/series/php-for-beginners/episodes/18).
+- [Forms, Request Types, and Routing](https://laracasts.com/series/php-for-beginners/episodes/19).

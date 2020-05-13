@@ -7,6 +7,6 @@ require 'core/bootstrap.php';
 // require 'routes.php';
 
 require Router::load('routes.php')
-        ->direct(Request::uri());
+        ->direct(Request::uri(), Request::method());
 
 // require $router->direct($uri);
