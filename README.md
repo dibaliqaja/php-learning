@@ -24,3 +24,4 @@ This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/seri
 - [Dynamic Inserts With PDO](https://laracasts.com/series/php-for-beginners/episodes/20).
 - [Composer Autoloading](https://laracasts.com/series/php-for-beginners/episodes/21).
 - [Your First DI Container](https://laracasts.com/series/php-for-beginners/episodes/22).
+- [Refactoring to Controller Classes](https://laracasts.com/series/php-for-beginners/episodes/23).
