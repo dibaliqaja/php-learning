@@ -22,3 +22,4 @@ This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/seri
 - [Array Filtering](https://laracasts.com/series/php-for-beginners/episodes/18).
 - [Forms, Request Types, and Routing](https://laracasts.com/series/php-for-beginners/episodes/19).
 - [Dynamic Inserts With PDO](https://laracasts.com/series/php-for-beginners/episodes/20).
+- [Composer Autoloading](https://laracasts.com/series/php-for-beginners/episodes/21).
