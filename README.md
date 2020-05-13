@@ -25,3 +25,4 @@ This PHP Learning is series "The PHP Practitioner" in https://laracasts.com/seri
 - [Composer Autoloading](https://laracasts.com/series/php-for-beginners/episodes/21).
 - [Your First DI Container](https://laracasts.com/series/php-for-beginners/episodes/22).
 - [Refactoring to Controller Classes](https://laracasts.com/series/php-for-beginners/episodes/23).
+- [Switch to Namespaces](https://laracasts.com/series/php-for-beginners/episodes/24).
